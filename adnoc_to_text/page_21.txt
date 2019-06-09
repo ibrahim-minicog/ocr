@@ -1,0 +1,10 @@
+oPco
+ZK-183 ,ZL192
+ZRKUM FIELD,Offshore Abu Dhabi
+
+   
+
+All data is in feet unless otherwise stated
+Coordinates are from slot #3 and TVDs are from RTE.
+vertical section is fron welihead on azimuth 75.30 degrees.
+Calculation uses the minimum curvature method.

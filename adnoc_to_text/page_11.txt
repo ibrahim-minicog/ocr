@@ -1,0 +1,22 @@
+b) Acidizing pumping procedure
+Stage Volume Description
+(gals )
+P 400 sence
+[200 [S%quatiy eames
+[400 iswnciete
+F300 |es%eauatiy famed
+| 400 [15 % HCl acid
+| 200 | 65 % quality foam gel
+| 400_——|15 % HClacid
+
+4, Total fluid volumes required for Tham-IVB (32'
+15 % HCl acid = 1600 gals
+65% Quality foamed gel = 600 gals
+Base gel = 210 gals
+Nitrogen = 149 gals
+
+5. Overflush twice acid volume with diesel .
+
+6. If injection rate is less than 2 BPM , then matrix acidize using
+coiled tubing by spraying the perforations only with acid .i.e.
+without diverting agent.

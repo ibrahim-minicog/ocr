@@ -1,0 +1,30 @@
+PETROLEUM DEVELOPMENT DIVISION
+WORKOVER WELL DATA SHEET
+
+RIG Ensco-96
+WELL NO. ZL-192
+WELL HISTORY :
+
+The well was drilled and completed by rig Trident III in March 1981 as a dual
+segregated producer from Tham. [VA / IVBL through type 14 A completion.
+Top of 7” liner & 9 5/8” DV tool were dry tested.
+Isolation was proved then confirmed during clean-up operations.
+On June 2000 rig Ensco-96 was moved on the tower to check integrity of
+well- head equipment and down-hole tubulars. The test had the following
+conclusion:
+. Leaking of X mas tree valves on both sides.
+. Unable to pressure the short string due to bad profile of the 2.75” F-nipple.
+. Observed continuous build up of pressure in the annulus from 0 psi to 210
+psi in two hours. Bled the annulus, produced gas. Pressure built from 0 psi
+to 270 psi in three hours. It reached a maximum of 580 psi after 3 days.
+This pressure is close to the short string pressure.
+Consequently it is recommended to workover the well to replace the
+completion and X- mas tree, add perforation and complete the well as a
+dual producer through type 16 AM completion.
+(See memo# 28/15900/WF/0476 dated 5th July, 2000 and the attachments
+of the meeting)
+
+Well Status
+The well was secured by 2.75” FWG plug in S/S, 2.81” BMH plug in L/S
+
+& closed all X mass valves except lower Master valve.

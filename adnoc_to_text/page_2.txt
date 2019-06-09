@@ -1,0 +1,79 @@
+. PETROLEUM DEVELOPMENT DIVISION ¥
+
+WORKOVER WELL DATA SHEET
+
+RIG Ensco-96
+WELL NO. ZL-192
+
+PETROLEUM ENGINEERING REQUIREMENTS :
+
+e Kill the well.
+
+e Recover the existing completion.
+
+e Check casing integrity
+
+e Add the following perforation 9274’ — 9292’ (18’) Th. [V-BU using 4”
+Casing gun, 4 SPF & 90 degree phasing (Ref. Logs: CNL/FDC dated 05-
+05-1981 & CBL/VDL/GR/CCL dated 08-03-1981).
+
+e Check / Ensure isolation between Tham. IV A & B sub-zones.
+
+If a communication is confirmed, a remedial squeeze job is needed to
+
+ensure the isolation.
+
+Run 16 AM completion.*
+
+Test the string to 4500 psig.
+
+Matrix acidize Tham. IV perforations as per the attached stimulation sheets.
+
+Clean-up the well & re-check isolation by Amerada gauges.
+
+Secure the well.
+
+     
+     
+   
+   
+   
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+      
+     
+      
+ 
+
+* As recommended by ZKFD, (Memo # 22 / 28100 dated 3rd July, 2000) Otis
+FXE down hole safety valve (Rated 10,000 psi) should be used in this well.
+
+* The safety valve control line should be rated to 10,000 psig.
+
+* The control line and X-mas tree cavity to be tested to 6500 psig.
+
+* To run 2.75” Otis nipples in both strings which will facilitate testing the
+
+tubing to 4500
+
+Note: Pending a safety review, risk analysis and securing the required hydraulic
+pressure to the control line, the testing of the control line and X-mas tree
+cavity to 6500 psig to be investigated by DD and to be discussed and
+
+Implemented if considered safe.
+
+ 
+ 
+
+Signature : € or SPE(CP/ZK) 2 Sele PES(ZK) '
+Date : ,
+— —HHtelta0c

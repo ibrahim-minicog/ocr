@@ -1,0 +1,29 @@
+b) Acidizing pumping procedure
+
+r
+Stage Volume Description
+(gals )
+
+D375
+P3475 fas vec aci
+
+   
+     
+ 
+
+  
+
+     
+
+4. Total flui lumes required for Tham-IVA (19'
+
+15 % HCl acid = 950 gals
+65% Quality foamed gel = 238 gals
+Base gel = 83 gals
+Nitrogen = 59 gals
+
+5. Overflush twice acid volume with diesel .
+
+6. Ifinjection rate is less than 2 BPM , then matrix acidize using
+coiled tubing by spraying the perforations only with acid ie.
+without diverting agent.
